@@ -6,8 +6,14 @@
     <extended_description/>
     <trans_version/>
     <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
     <directory>&#x2f;</directory>
     <parameters>
+        <parameter>
+            <name>FILEPATH</name>
+            <default_value>&#x2f;Users&#x2f;tom&#x2f;work&#x2f;gitstuff&#x2f;ETL&#x2f;charming&#x2f;cc-reporting-attribute-codes.rpt</default_value>
+            <description/>
+        </parameter>
     </parameters>
     <log>
 <trans-log-table><connection/>
@@ -194,7 +200,7 @@
     <encoding/>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>&#x2f;Users&#x2f;tom&#x2f;work&#x2f;gitstuff&#x2f;ETL&#x2f;charming&#x2f;cc-reporting-attribute-codes.rpt</name>
+      <name>&#x24;&#x7b;FILEPATH&#x7d;</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
