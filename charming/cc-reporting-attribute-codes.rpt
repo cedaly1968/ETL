@@ -1,0 +1,9 @@
+customer_id|attribute_grouping_code|attribute_code|attribute_comment|attribute_value|attribute_date|timestamp
+17041|AGE |26   |NULL|0|NULL|NULL
+17041|CLUS|24   |NULL|0|NULL|NULL
+17041|GEND|F    |NULL|0|NULL|NULL
+17041|INCO|F    |NULL|0|NULL|NULL
+17050|AGE |52   |NULL|0|NULL|NULL
+17050|CHIL|Y    |NULL|0|NULL|NULL
+17050|CLUS|19   |NULL|0|NULL|NULL
+17050|GEND|F    |NULL|0|NULL|NULL

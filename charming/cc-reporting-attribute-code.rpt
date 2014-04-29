@@ -1,0 +1,7 @@
+attribute_grouping_code|attribute_grouping_description|attribute_unique_flag|attribute_instore_cps_flag|attribute_comment_default|attribute_date_default|attribute_value_default|attribute_code_label|attribute_comment_label|attribute_date_label|attribute_value_label|merge_override|ignore_blank|summary_visible|timestamp
+AGE |Age (in 2-year Increments)|1|0|NULL|NULL|NULL|Age (in 2-year Increments)|NULL|NULL|NULL|0|0|0|NULL
+CHIL|Presence of Children|1|0|NULL|NULL|NULL|Presence of Children|NULL|NULL|NULL|0|0|0|NULL
+CLUS|Personicx Classic Ref Cluster|1|0|NULL|NULL|NULL|Personicx Classic Ref Cluster|NULL|NULL|NULL|0|0|0|NULL
+GEND|Gender|0|0|NULL|NULL|NULL|Gender|NULL|NULL|NULL|0|0|0|NULL
+HOME|Home Owner/Renter|1|0|NULL|NULL|NULL|Home Owner/Renter|NULL|NULL|NULL|0|0|0|NULL
+INCO|HH Income|1|0|NULL|NULL|NULL|Personicx Income: Estimated HH|NULL|NULL|NULL|0|0|0|NULL
