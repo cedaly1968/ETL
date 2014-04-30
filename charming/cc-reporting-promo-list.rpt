@@ -1,0 +1,76 @@
+promotion_id|list_code|source_code|list_description|selection_id|control_group_flag|control_group_for_list_code
+1|1|   |Elite Retail buyers|120|0|0
+2|1|   |Elite Emailable|144|0|0
+2|2|   |Gold Emailable|145|0|0
+2|3|   |Silver Emailable|146|0|0
+2|4|   |Bronze Emailabel|147|0|0
+2|5|   |Tin Emailable|148|0|0
+2|6|   |Rea Emailable|149|0|0
+2|7|   |Bal Emailable |150|0|0
+3|1|   |Email Opt In|133|0|0
+5|1|   |Baybrook Crafting Participants|256|0|0
+6|1|   |Crafting Event Participants|256|0|0
+7|1|   |NTF for Training Promo|347|0|0
+7|2|   |12mo RFMX Group 1 Promo|349|0|0
+7|3|   |12mo RFMX Group 2 Promo|350|0|0
+7|4|   |12mo RFMX Group 3 Promo|351|0|0
+7|5|   |NTF for Training Promo / Rando|355|0|1
+7|6|   |12mo RFMX Group 1 Promo / Rand|352|0|2
+7|7|   |12mo RFMX Group 2 Promo / Rand|354|0|3
+7|8|   |12mo RFMX Group 3 Promo / Rand|353|0|4
+10|1|   |DM Promo spend $35 or more|373|0|0
+10|2|   |DMControlGrp / Random Sample|403|0|1
+12|1|   |DM Promo spend $35 or more|373|0|0
+12|2|EARFREE35|System Default:EARFREE35|0|0|0
+13|1|   |DM Promo spend $45 or more|374|0|0
+13|2|   |DMControlGrp|392|0|1
+14|1|   |DM Promo spend $45 or more|374|0|0
+14|2|EARFREE45|System Default:EARFREE45|0|0|0
+18|1|   |New 30 off 100 list|432|0|0
+18|2|700100001211|System Default:700100001211|0|0|0
+31|1|   |GWP Tenured 1|826|0|0
+31|2|   |GWP Tenured 2|827|0|0
+31|3|   |GWP Rec Dormant|828|0|0
+31|4|   |GWP Ten1 CG|856|0|1
+31|5|   |GWP Ten2 CG|857|0|2
+31|6|   |GWP Rec Dor CG|858|0|3
+32|1|   |GWP Tenured 1|826|0|0
+32|2|   |GWP Tenured 2|827|0|0
+32|3|   |GWP Rec Dormant|828|0|0
+32|4|700100007001|System Default:700100007001|0|0|0
+33|1|   |Merch only tenured 1|829|0|0
+33|2|   |Merch only Tenured 2|830|0|0
+33|3|   |Merch only Rec Dormant|831|0|0
+33|4|   |Merch Ten1 CG|859|0|1
+33|5|   |Merch Ten2 CG|860|0|2
+33|6|   |Merch Rec Dor CG|861|0|3
+35|1|   |June Mailer List A (Final)|1170|0|0
+36|1|   |June Mailer List B (Final)|1171|0|0
+37|1|   |June Mailer List A&B|1172|0|0
+38|1|   |June Mailer A Total|1177|0|0
+39|1|   |June Mailer A New|1178|0|0
+40|1|   |June Mailer A Rec Dormant|1182|0|0
+41|1|   |June Mailer A Trx1|1183|0|0
+42|1|   |June Mailer A Trx2|1184|0|0
+43|1|   |June Mailer A Very Dormant|1185|0|0
+44|1|   |June Mailer B Very Dor|1186|0|0
+45|1|   |June Mailer B New|1193|0|0
+46|1|   |June Mailer B Trx 2|1189|0|0
+47|1|   |June Mailer B Total|1194|0|0
+49|1|   |June Mailer B Rec Dor|1191|0|0
+50|1|   |New Excl. Mailed A / Random Sa|1211|0|0
+51|1|   |Rec Dor Excl. Mailed A / Rando|1212|0|0
+52|1|   |Trx1 Excl. mailed A / Random S|1213|0|0
+53|1|   |Trx 2 Excl. Mailed A / Random |1214|0|0
+54|1|   |Very Dor Excl. Mailed A / Rand|1215|0|0
+55|1|   |New Excl. Mailed B / Random Sa|1216|0|0
+56|1|   |Rec Dor Excl. Mailed B / Rando|1217|0|0
+57|1|   |Trx1 Excl. Mailed B / Random S|1218|0|0
+58|1|   |Trx2 Excl. Mailed B / Random S|1219|0|0
+59|1|   |Very Dor Excl. Mailed B / Rand|1220|0|0
+60|1|   |June Mailer B Trx 1|1190|0|0
+61|1|   |June Mailer B Trx 2|1189|0|0
+63|1|00100007002|System Default:00100007002|0|0|0
+63|2|00100007003|System Default:00100007003|0|0|0
+63|3|00100007004|System Default:00100007004|0|0|0
+
